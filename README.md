@@ -32,6 +32,5 @@ A comprehensive library to retrieve the list of all installed applications on An
 
 - [LinkedIn](https://www.linkedin.com/in/itsaravind/)
 - [X](https://x.com/aravind3566)
-- [Personal Website](https://aravind3566.github.io/Portfolio/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on anything interesting.
