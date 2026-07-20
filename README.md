@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working on e
 
 ## GitHub Stats
 
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind3566&show_icons=true&theme=radical)
+![Aravind's GitHub stats](https://github-stats-extended.vercel.app/api?username=aravind3566&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind3566&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=aravind3566&layout=compact&theme=radical)
 
 ## Projects
 
