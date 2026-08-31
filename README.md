@@ -2,7 +2,7 @@
 
 <a target="_blank" href="https://aravind3566.github.io/Portfolio">
   <img
-src="https://capsule-render.vercel.app/api?type=waving&color=FF6677&height=220&section=header&text=Hi,%20I'm%20Aravind&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=d55e64&height=220&section=header&text=Hi,%20I'm%20Aravind&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
     alt="Header"
     width="100%"
   />
@@ -276,7 +276,7 @@ I also enjoy creating **React Native libraries**, working with Android and iOS n
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=FF6677&height=120&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=d55e64&height=120&section=footer"
 alt="Footer"
 />
 
