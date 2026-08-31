@@ -2,7 +2,7 @@
 
 <a target="_blank" href="https://aravind3566.github.io/Portfolio">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:D06060,100:E47B60&height=220&section=header&text=Hi,%20I'm%20Aravind&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&color=FF6677&height=220&section=header&text=Hi,%20I'm%20Aravind&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=60&descSize=20&animation=fadeIn"
     alt="Header"
     width="100%"
   />
@@ -66,6 +66,7 @@ specialization:
   - Expo
   - TypeScript
   - Android
+  - iOS
 
 interests:
   - Mobile Application Development
@@ -75,9 +76,9 @@ interests:
   - Full-Stack Development
 ````
 
-I build **cross-platform mobile applications** with a strong focus on performance, maintainability, and great user experiences.
+I build **cross-platform mobile applications for Android and iOS** with a strong focus on performance, maintainability, and great user experiences.
 
-I also enjoy creating **React Native libraries**, working with Android native APIs, building web applications, and turning complex technical requirements into simple developer-friendly solutions.
+I also enjoy creating **React Native libraries**, working with Android and iOS native APIs, building web applications, and turning complex technical requirements into simple developer-friendly solutions.
 
 ---
 
@@ -128,9 +129,9 @@ I also enjoy creating **React Native libraries**, working with Android native AP
 
 <div align="center">
 
-|       📱 Mobile Apps       |         ⚛️ React Native         |       🔌 Native Modules       |
-| :------------------------: | :-----------------------------: | :---------------------------: |
-| Cross-platform experiences | Reusable components & libraries | Android platform integrations |
+|       📱 Mobile Apps       |         ⚛️ React Native         |       🔌 Native Modules      |
+| :------------------------: | :-----------------------------: | :--------------------------: |
+| Android & iOS applications | Reusable components & libraries | Native platform integrations |
 
 |       🚀 Performance       |    🧩 Developer Tools   |         🌐 Open Source         |
 | :------------------------: | :---------------------: | :----------------------------: |
@@ -282,7 +283,7 @@ I also enjoy creating **React Native libraries**, working with Android native AP
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:D06060,100:E47B60&height=120&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=FF6677&height=120&section=footer"
 alt="Footer"
 />
 
