@@ -233,11 +233,6 @@ I also enjoy creating **React Native libraries**, working with Android and iOS n
     alt="Open Portfolio"
   />
 </a>
-
-<a target="_blank" href="https://aravind3566.github.io/Portfolio">
-  <strong>aravind3566.github.io/Portfolio</strong>
-</a>
-
 </div>
 
 ---
