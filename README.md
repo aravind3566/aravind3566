@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <strong>React Native • Expo • TypeScript • Android</strong>
+  <strong>React Native • Expo • TypeScript • Android • iOS</strong>
 </p>
 
 <p align="center">
