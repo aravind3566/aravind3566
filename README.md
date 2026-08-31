@@ -1,36 +1,219 @@
-# Hi there, I'm Aravind 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys working on exciting projects and learning new technologies.
+# 👋 Hi, I'm Aravind
 
-![Profile Views](https://komarev.com/ghpvc/?username=aravind3566&color=blue&style=flat)
+### Mobile Application Developer
 
-## About Me
+**React Native • Expo • TypeScript • Android**
 
-- 💻 I’m currently working on building cross-platform mobile applications using React Native.
-- 🌱 I’m currently learning advanced techniques in React Native, including performance optimization and native module development.
-- 👯 I’m looking to collaborate on innovative mobile app projects and open-source contributions in the React Native ecosystem.
-- 📫 How to reach me: [aravind3566@gmail.com](mailto:aravind3566@gmail.com) or [LinkedIn](https://www.linkedin.com/in/itsaravind)
+Building cross-platform mobile experiences and open-source tools.
 
-## GitHub Stats
+<p>
+  <a target="_blank" href="https://aravind3566.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a target="_blank" href="https://github.com/aravind3566">
+    <img src="https://img.shields.io/badge/GitHub-aravind3566-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/itsaravind/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://x.com/aravind3566">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X" />
+  </a>
+</p>
 
-![Aravind's GitHub stats](https://github-stats-extended.vercel.app/api?username=aravind3566&show_icons=true&theme=radical)
+<img
+  src="https://komarev.com/ghpvc/?username=aravind3566&label=Profile%20Views&color=blueviolet&style=for-the-badge"
+  alt="Profile Views"
+/>
 
-## Top Languages
+</div>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=aravind3566&layout=compact&theme=radical)
+---
 
-## Projects
+## 🧑‍💻 About Me
 
-Here are some of my favorite projects:
+```yaml
+name: Aravind
+role: Mobile Application Developer
 
-- [react-native-in-app-updates](https://github.com/aravind3566/react-native-in-app-updates): Lightweight and simple-to-use library for implementing Android in-app updates.
-- [react-native-install-unknown-apps](https://github.com/aravind3566/react-native-install-unknown-apps): A lightweight React Native library to manage and enable the 'Install Unknown Apps' permission on Android devices.
-- [react-native-get-app-list](https://github.com/aravind3566/react-native-get-app-list):
-A comprehensive library to retrieve the list of all installed applications on Android devices.
+specialization:
+  - React Native
+  - Expo
+  - TypeScript
+  - Android
 
-## Connect with Me
+interests:
+  - Mobile Application Development
+  - Native Integrations
+  - Performance Optimization
+  - Open Source
+  - Full-Stack Development
+````
 
-- [LinkedIn](https://www.linkedin.com/in/itsaravind/)
-- [X](https://x.com/aravind3566)
+I build **cross-platform mobile applications** with a strong focus on performance, maintainability, and great user experiences.
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on anything interesting.
+I also enjoy creating **React Native libraries**, working with Android native APIs, building web applications, and turning complex technical requirements into simple developer-friendly solutions.
+
+---
+
+## 🧰 Tech Stack
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+</p>
+
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,php,tailwind" alt="Languages and Frameworks" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Tools and Technologies" />
+</p>
+
+---
+
+## 💡 What I Build
+
+<div align="center">
+
+|       📱 Mobile Apps       |         ⚛️ React Native         |       🔌 Native Modules       |
+| :------------------------: | :-----------------------------: | :---------------------------: |
+| Cross-platform experiences | Reusable components & libraries | Android platform integrations |
+
+|       🚀 Performance       |    🧩 Developer Tools   |         🌐 Open Source         |
+| :------------------------: | :---------------------: | :----------------------------: |
+| Fast & smooth applications | Useful mobile utilities | Libraries & community projects |
+
+</div>
+
+---
+
+## 🚀 Open Source Projects
+
+### 📦 `react-native-in-app-updates`
+
+> Lightweight React Native library for implementing **Android in-app updates**.
+
+<a target="_blank" href="https://github.com/aravind3566/react-native-in-app-updates">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repository"
+  />
+</a>
+
+---
+
+### 📲 `react-native-install-unknown-apps`
+
+> React Native library for managing the Android **Install Unknown Apps** permission.
+
+<a target="_blank" href="https://github.com/aravind3566/react-native-install-unknown-apps">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repository"
+  />
+</a>
+
+---
+
+### 📱 `react-native-get-app-list`
+
+> React Native library for retrieving installed applications on Android devices.
+
+<a target="_blank" href="https://github.com/aravind3566/react-native-get-app-list">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repository"
+  />
+</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a target="_blank" href="https://github.com/aravind3566">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=aravind3566&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+</a>
+
+<a target="_blank" href="https://github.com/aravind3566">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=aravind3566&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</a>
+
+</div>
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+### Explore my work, projects & experience
+
+<a target="_blank" href="https://aravind3566.github.io/Portfolio">
+<img
+src="https://img.shields.io/badge/🚀%20OPEN%20MY%20PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&labelColor=111827"
+alt="Open Portfolio"
+/>
+</a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a target="_blank" href="https://www.linkedin.com/in/itsaravind/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-itsaravind-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a target="_blank" href="https://x.com/aravind3566">
+  <img
+    src="https://img.shields.io/badge/X-aravind3566-000000?style=flat-square&logo=x&logoColor=white"
+    alt="X"
+  />
+</a>
+
+<a target="_blank" href="https://github.com/aravind3566">
+  <img
+    src="https://img.shields.io/badge/GitHub-aravind3566-181717?style=flat-square&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a target="_blank" href="https://aravind3566.github.io/Portfolio">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+</p>
+
+---
+
+<div align="center">
